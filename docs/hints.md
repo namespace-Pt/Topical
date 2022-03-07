@@ -1,0 +1,1 @@
+1. adversial network to generate false topic distribution, and an discriminator to determine whether a word belongs to one topic and whether a document has one topic
